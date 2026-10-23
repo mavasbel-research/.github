@@ -17,7 +17,6 @@ Research software by [Marco Vásquez Beltrán](https://github.com/mavasbel) on m
 |:---|:---|:---|
 | [**matlab-preisach-model**](https://github.com/mavasbel-research/matlab-preisach-model) | Preisach operator classes, model fitting, Simulink models, remnant ILC experiments and measurements, with folders for the CDC 2019, CDC 2020 and TAC 2020 work | MATLAB, Simulink |
 | [**matlab_duhem_model**](https://github.com/mavasbel-research/matlab_duhem_model) | Duhem and asymmetric Miller model ODEs, butterfly-loop fitting, Simulink models, and a remnant control experiment | MATLAB, Simulink |
-| [**tensorflow_hysteresis_models**](https://github.com/mavasbel-research/tensorflow_hysteresis_models) | A TensorFlow hysteresis model with a quick-start notebook | Python, TensorFlow |
 
 ### 🔭 Adaptive optics and experimental setups
 
@@ -33,6 +32,7 @@ Research software by [Marco Vásquez Beltrán](https://github.com/mavasbel) on m
 |:---|:---|:---|
 | [**model_reduction**](https://github.com/mavasbel-research/model_reduction) | Model-order reduction studies for beam and PD-controlled models, with error bounds and ODE simulation comparisons | Python, Jupyter |
 | [**openai-reinforcement-learning**](https://github.com/mavasbel-research/openai-reinforcement-learning) | Q-learning agent for the OpenAI Gym Lunar Lander environment | Python, PyTorch |
+| [**tensorflow_hysteresis_models**](https://github.com/mavasbel-research/tensorflow_hysteresis_models) | TensorFlow/Keras starter: a subclassed CNN and a custom training loop, trained on MNIST | Python, TensorFlow |
 
 ---
 
