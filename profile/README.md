@@ -1,6 +1,6 @@
-# Hysteresis & Control Research
+# Research Software
 
-Research software by [Marco Vásquez Beltrán](https://github.com/mavasbel) on modelling and control of hysteresis, adaptive optics, and model-order reduction.
+Research software by [Marco Vásquez Beltrán](https://github.com/mavasbel) across control theory, nonlinear dynamics, applied mathematics, and scientific computing.
 
 [![Thesis DOI](https://img.shields.io/badge/Thesis%20DOI-10.33612%2Fdiss.215199709-0055A5?style=flat-square)](https://doi.org/10.33612/diss.215199709)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6199--9813-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6199-9813)
